@@ -1,1 +1,1 @@
-# simple-calculator
+# number_guessing_game
